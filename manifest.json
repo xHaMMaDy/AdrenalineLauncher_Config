@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "downloadBase": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/files-1.0.0/",
   "files": [
     { "path": "7z.dll", "size": 726016, "sha256": "6c80e3f49fcf561e6a0b52f9b4c81d1d07b22085f7864ee4cfd30dd10f6b3b12", "critical": true },
@@ -12,7 +12,7 @@
     { "path": "A_Characters_Player.Arch00", "size": 212494630, "sha256": "c6ca8a61fde4de9bbf044a33e3c27ee2521d912194e5f6559da3a2e8f0b628a0", "critical": true },
     { "path": "A_Database.Arch00", "size": 42759017, "sha256": "701858054118e7f9892150ee7db07cbcbc709af37b2943f3d89d31c09f33026b", "critical": true },
     { "path": "A_FX.Arch00", "size": 111482402, "sha256": "d6684173ac51448456ddcf0d06b3c96e847ed0bfae9ef06054a2a714af1efa84", "critical": true },
-    { "path": "A_Interface.Arch00", "size": 167070798, "sha256": "98610725e36bc4840ad6fdfcf19ecbb2f8517e83443028734bb577866fd79eeb", "critical": true },
+    { "path": "A_Interface.Arch00", "size": 167070798, "sha256": "98610725e36bc4840ad6fdfcf19ecbb2f8517e83443028734bb577866fd79eeb", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/interface-1.0.1/A_Interface.Arch00", "critical": true },
     { "path": "A_Interface_image.Arch00", "size": 430518226, "sha256": "c9456ac37b458a0417922d51357679baf0143a45c1eb1c7e3b850d1da3b00ab8", "critical": true },
     { "path": "A_Materials01.Arch00", "size": 264246311, "sha256": "c5b259d3f42d10ef9abce6654a7d366310b6f4525cae08c28f0f5dc57e0242c7", "critical": true },
     { "path": "A_Materials02zz.Arch00", "size": 528206383, "sha256": "a2ef3a9c95caad5e664fdf9debb8d67c1bf587946e2cbf059e62d611a644b8f7", "critical": true },
