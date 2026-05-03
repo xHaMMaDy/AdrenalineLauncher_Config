@@ -1,5 +1,6 @@
- {
-   "version": "1.0.2",
-   "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.0.2/AdrenalineLauncher.exe",
-   "notes": "Launcher v1.0.2 - repair/update fixes and options title version display."
- }
+{
+  "version": "1.0.4",
+  "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.0.4/AdrenalineLauncher.exe",
+  "sha256": "23df51593c00bfffa134886c9bf74cb9e1f8940ac909c4b6bd8dcff1682a23a7",
+  "notes": "Launcher anti-cheat update: improved screenshot diagnostics, launcher version reporting, and suspicious DLL/module inventory."
+}
