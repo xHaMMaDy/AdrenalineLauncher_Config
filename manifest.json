@@ -18,7 +18,7 @@
     { "path": "A_Materials02zz.Arch00", "size": 528206383, "sha256": "a2ef3a9c95caad5e664fdf9debb8d67c1bf587946e2cbf059e62d611a644b8f7", "critical": true },
     { "path": "A_Materials_common01.Arch00", "size": 101795967, "sha256": "18d4d026d399a62832cb4faf4ff094958c0d37f1d48799624f84501b787cf94d", "critical": true },
     { "path": "A_Materials_common02M-.Arch00", "size": 151889742, "sha256": "68d8ae2c7b93f860c9cd396113f76061f84c3c404a42e28fff052ba0195c73f1", "critical": true },
-    { "path": "A_Media.Arch00", "size": 126619327, "sha256": "eb6b9ef8341aee62c2855b1128c121fc9ab3879bd6f9faa1c976afe4ecd03976", "critical": true },
+    { "path": "A_Media.Arch00", "size": 217856312, "sha256": "3d6725facf761e990380064a7b3169ccd9a30f2a8cdff461ba61826bee568f64", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/media-1.0.1/A_Media.Arch00","critical": true },
     { "path": "A_Media_Music.Arch00", "size": 50512890, "sha256": "f9668636ad37e764a058a52b74964a81361474c8d3dcbc8d1214875f82206d18", "critical": true },
     { "path": "A_Media_Prefabs01.Arch00", "size": 328262198, "sha256": "cb2fea7b5c6bfb982a36b6864a7afe07870c70fb5e3ac33e61b6e5f2d4501d77", "critical": true },
     { "path": "A_Media_Prefabs02zz.Arch00", "size": 30774655, "sha256": "7029215d02f80f37b72e9e5ae9d7f9a34a76b38dba881a17687b6c7e08be6ef1", "critical": true },
