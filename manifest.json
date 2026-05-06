@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "downloadBase": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/files-1.0.0/",
   "files": [
     { "path": "7z.dll", "size": 726016, "sha256": "6c80e3f49fcf561e6a0b52f9b4c81d1d07b22085f7864ee4cfd30dd10f6b3b12", "critical": true },
