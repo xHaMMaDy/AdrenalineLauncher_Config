@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.0.5/AdrenalineLauncher.exe",
-  "sha256": "db2b51db4340355c89f80e1fbd26c6d6ed16106049370cf98dc170cd50d1271f",
-  "notes": "Launcher anti-cheat update: fixes scaled-display screenshot cropping, known game DLL false warnings, screenshot diagnostics, launcher version reporting, suspicious DLL inventory, and unauthorized game-process watchdog."
+  "version": "1.0.6",
+  "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.0.6/AdrenalineLauncher.exe",
+  "sha256": "a1803058986839e1dc158ecf40d754083a3d3f3f4d85d1d37db64f381a84c1d1",
+  "notes": "Launcher Update 23/06/2026"
 }
