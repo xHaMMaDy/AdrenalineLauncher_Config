@@ -10,7 +10,7 @@
     { "path": "A_Characters.Arch00", "size": 44622907, "sha256": "2faa775b5c27be87b499e7c11d2ffdca726b7154c1e562d706b8c50c780f961a", "critical": true },
     { "path": "A_Characters_MAI.Arch00", "size": 117880755, "sha256": "e7c1e583c6a466fcb7b4e0b0164438c30a2dc8735c8f40733c9634f9c98973a2", "critical": true },
     { "path": "A_Characters_Player.Arch00", "size": 212494630, "sha256": "c6ca8a61fde4de9bbf044a33e3c27ee2521d912194e5f6559da3a2e8f0b628a0", "critical": true },
-    { "path": "A_Database.Arch00", "size": 42759017, "sha256": "9268FDA723B968E39A9EB4CFD4D8428EABB9223D0648956E4F586465E5881018", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/files-1.0.3N/A_Database.Arch00", "critical": true },
+    { "path": "A_Database.Arch00", "size": 42759017, "sha256": "0c4ec8e2875a1761b4c4a9d12597fd0620dfa644bbad182d55b7dd35b2c806de", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/database-v1.0.5/A_Database.Arch00", "critical": true },
     { "path": "A_FX.Arch00", "size": 111482402, "sha256": "d6684173ac51448456ddcf0d06b3c96e847ed0bfae9ef06054a2a714af1efa84", "critical": true },
     { "path": "A_Interface.Arch00", "size": 167070798, "sha256": "22C3BAE5341553D24DE40449EBB0084638F80F1D7E695D76B4D120E6DB4963DB", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/interface-1.0.1/A_Interface.Arch00", "critical": true },
     { "path": "A_Interface_image.Arch00", "size": 430518226, "sha256": "9EF61A16CFBCCFD58C62E6663813A932F6CAAA529FCCF0EDF13A0908743F6E24", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/files-1.0.3N/A_Interface_image.Arch00", "critical": true },
