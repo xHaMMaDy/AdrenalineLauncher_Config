@@ -3,7 +3,7 @@
   "downloadBase": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/files-1.0.0/",
   "files": [
     { "path": "7z.dll", "size": 726016, "sha256": "6c80e3f49fcf561e6a0b52f9b4c81d1d07b22085f7864ee4cfd30dd10f6b3b12", "critical": true },
-    { "path": "Adrenaline.exe", "size": 2663424, "sha256": "1111b2e87e7475e311523823c97457abf7ba849f1defe6be9e936a68810ea2c9", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.10/Adrenaline.exe", "critical": true },,
+    { "path": "Adrenaline.exe", "size": 2663424, "sha256": "1111b2e87e7475e311523823c97457abf7ba849f1defe6be9e936a68810ea2c9", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.10/Adrenaline.exe", "critical": true },
     { "path": "Adrenaline_icon.ico", "size": 381688, "sha256": "f1e2a9afdfb71aa6e549d68fc8bf6662842d9d8bd6ed5e146892e4ba1a4af34a", "critical": true },
     { "path": "A_Arsenal.Arch00", "size": 230487238, "sha256": "7FA6A2FC42DEE15F642D2AE354B46AA016CCF7446BAE4A5269EE35C9FB58FEF0", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/files-1.0.3N/A_Arsenal.Arch00", "critical": true },
     { "path": "A_Arsenal_Weapons_Sound.Arch00", "size": 84164043, "sha256": "dd878177732644b9f229fd591b7506b68b91eb042d68d563bd849fa63261579a", "critical": true },
