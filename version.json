@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/LauncherV1.10.0/AdrenalineLauncher.exe",
-  "sha256": "10289d841cd739636bfb6f86534c123ab7fe3d4dbf8107fbad4cc143cc2dc9bc",
-  "notes": "Options update"
+  "version": "1.0.11",
+  "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/LauncherV1.11.0/AdrenalineLauncher.exe",
+  "sha256": "3a6f9eb1663385e1680248aff6d186ad311d367c257c8cacf7a1570b63f8e1d8",
+  "notes": "DPI-unaware embedded-resource launcher release. Screenshot capture is disabled."
 }
