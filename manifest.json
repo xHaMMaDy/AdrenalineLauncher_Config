@@ -31,7 +31,7 @@
     { "path": "A_World_Blaster.Arch00", "size": 9116520, "sha256": "c100d8c1c73160b822449f3593eac5eb95e760239e0dda9e99321ad0df493371", "critical": true },
     { "path": "A_World_CTF.Arch00", "size": 32727204, "sha256": "e5e2356e099eb66a197e885c0396c8ff7e5c7af0f4691242dfba60c28bed463c", "critical": true },
     { "path": "A_World_CTF_TAG.Arch00", "size": 25286339, "sha256": "af904805c795d6897457e223f1e0e39b0e20dab891bff7e523534ba2d53854be", "critical": true },
-    { "path": "A_World_DM.Arch00", "size": 87801914, "sha256": "5547e1bc6c147a3e99914c904614543933bc5b52f7cb5358bfe0590dec530a18", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.20/A_World_DM.Arch00", "critical": true },
+    { "path": "A_World_DM.Arch00", "size": 87789227, "sha256": "91563b3182eda129b735e46bf2605c6bf01470f5bc41ec84171c3fa94d5ce997", "url": "https://github.com/xHaMMaDy/AdrenalineLauncher_Config/releases/download/v1.21/A_World_DM.Arch00", "critical": true },
     { "path": "A_World_Escape.Arch00", "size": 48234025, "sha256": "b076ae6f90e91e64ac7a0b4f4a5cbc9c65e47287b921c70acc4b399ebac2aeea", "critical": true },
     { "path": "A_World_EXP.Arch00", "size": 219892955, "sha256": "8c3dd8ff68e9152d1f4a5e6fc2ccc0771b371a549c421a45a73d2b129c84915f", "critical": true },
     { "path": "A_World_INV.Arch00", "size": 27739277, "sha256": "032ce3ca85529b480fc1245f25c608fec0f96d1ba794b8dac47e31dbc1f38032", "critical": true },
